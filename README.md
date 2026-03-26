@@ -26,7 +26,7 @@ Clone the repository:
 
 ```bash
 git clone <repository-url>
-cd mrmo-skills
+cd chakra-agent-skills
 ```
 
 ### Usage
