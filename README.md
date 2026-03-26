@@ -1,4 +1,4 @@
-# mrmo-skills
+# chakra-agent-skills
 
 A collection of specialized skills for Chakra UI v3 development and React component building. These skills provide comprehensive documentation, usage patterns, and best practices to accelerate UI development.
 
