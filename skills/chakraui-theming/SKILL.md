@@ -1,6 +1,6 @@
 ---
 name: chakraui-theming
-description: Comprehensive Chakra UI v3 theming system including tokens, semantic tokens, recipes, slot recipes, and theme customization for the tradingview project.
+description: Customize Chakra UI v3 theme, tokens, and design system. Use when the user wants to customize the theme, create design tokens, semantic tokens, component recipes, slot recipes, or modify colors/spacing/typography at the theme level. Triggers for "customize theme", "change colors", "create design tokens", "override component styles", "add brand colors", "define custom components", or when working with createSystem, defineConfig, or theme configuration files.
 ---
 
 # Chakra UI v3 Theming Skill

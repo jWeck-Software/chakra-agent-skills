@@ -1,6 +1,6 @@
 ---
 name: chakraui-components
-description: Comprehensive Chakra UI v3 component documentation, usage patterns, props reference, and best practices for the tradingview project. Use when implementing or troubleshooting Chakra UI components.
+description: Build UI with Chakra UI v3 components. Use when the user mentions Chakra UI, asks about Chakra components (Button, Dialog, Table, Menu, Tabs, Input, etc.), needs form elements, overlays, navigation, or data display components. Also use when implementing layouts (Flex, Grid, Stack), typography (Text, Heading), or any React component styling with Chakra. Triggers for phrases like "how do I make a dialog", "create a form", "add a menu", "show a table", or when code contains @chakra-ui/react imports.
 ---
 
 # Chakra UI v3 Components Skill
